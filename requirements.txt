@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+gradio
+opencv-python
